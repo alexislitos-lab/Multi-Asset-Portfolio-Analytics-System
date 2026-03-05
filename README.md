@@ -13,7 +13,7 @@
 
 ## Visual Results
 ### Growth Curve
-![Equity Curve](clear_equity_curve.png)
+![Equity Curve](clear_equity_chart.png)
 
 ### Monthly Gains/Losses
-![Monthly Performance](monthly_performance.png)
+![Monthly Performance](monthly_chart2.png)
