@@ -1,4 +1,4 @@
-# Portfolio Performance Analysis (SQL & Python)
+# Portfolio Performance Analysis (SQL & Excel)
 
 ## Project Highlights
 * **Initial Capital**: $10,000 (Jan 2020)
