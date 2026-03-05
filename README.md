@@ -10,10 +10,3 @@
 1. **SQL Processing**: Cleaned and transformed raw price data using T-SQL.
 2. **Metrics Calculation**: Calculated daily returns and cumulative portfolio growth.
 3. **Data Visualization**: Generated equity curves and monthly P&L bars to track performance.
-
-## Visual Results
-### Growth Curve
-![Equity Curve](clear_equity_chart.png)
-
-### Monthly Gains/Losses
-![Monthly Performance](monthly_chart2.png)
